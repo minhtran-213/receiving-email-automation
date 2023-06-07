@@ -1,0 +1,5 @@
+{
+  "GCF_REGION": "us-central1",
+  "GCLOUD_PROJECT": "realtime-receiving-email",
+  "TOPIC_ID": "receiving-emails"
+}
